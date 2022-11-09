@@ -15,11 +15,13 @@
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _To create a new repository using this template, click Use This Template Button Highlighted in Green_
+* _Clone down repository and run the following commands below_
+* Installing all packages with $ npm install._
+* _Building the project using webpack with $ npm run build_
+* _Starting a development server with $ npm run start_
+* _Linting JS files in the src folder with $ npm run lint_
+* _Running tests with Jest using $ npm run test_
 
 ## Known Bugs
 
